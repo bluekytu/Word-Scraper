@@ -1,0 +1,108 @@
+{
+    "table": [
+        {
+            "letter": "a",
+            "counts": 2849
+        },
+        {
+            "letter": "b",
+            "counts": 815
+        },
+        {
+            "letter": "c",
+            "counts": 1174
+        },
+        {
+            "letter": "d",
+            "counts": 1277
+        },
+        {
+            "letter": "e",
+            "counts": 3443
+        },
+        {
+            "letter": "f",
+            "counts": 610
+        },
+        {
+            "letter": "g",
+            "counts": 833
+        },
+        {
+            "letter": "h",
+            "counts": 914
+        },
+        {
+            "letter": "i",
+            "counts": 1909
+        },
+        {
+            "letter": "j",
+            "counts": 116
+        },
+        {
+            "letter": "k",
+            "counts": 690
+        },
+        {
+            "letter": "l",
+            "counts": 1849
+        },
+        {
+            "letter": "m",
+            "counts": 969
+        },
+        {
+            "letter": "n",
+            "counts": 1551
+        },
+        {
+            "letter": "o",
+            "counts": 2172
+        },
+        {
+            "letter": "p",
+            "counts": 1067
+        },
+        {
+            "letter": "q",
+            "counts": 63
+        },
+        {
+            "letter": "r",
+            "counts": 2194
+        },
+        {
+            "letter": "s",
+            "counts": 3335
+        },
+        {
+            "letter": "t",
+            "counts": 1784
+        },
+        {
+            "letter": "u",
+            "counts": 1242
+        },
+        {
+            "letter": "v",
+            "counts": 389
+        },
+        {
+            "letter": "w",
+            "counts": 517
+        },
+        {
+            "letter": "x",
+            "counts": 171
+        },
+        {
+            "letter": "y",
+            "counts": 949
+        },
+        {
+            "letter": "z",
+            "counts": 168
+        }
+    ]
+}

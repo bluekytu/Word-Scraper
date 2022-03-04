@@ -1,0 +1,53 @@
+{
+    "alphabets": [
+        {
+            "letter_1":[
+                {
+                    "letter": "S",
+                    "IsGreen": false,
+                    "IsYellow": false,
+                    "IsGray": true,
+                    "index": 1
+                    
+                    
+                }
+            ],
+            "letter_2":[
+                {
+                    "letter": "H",
+                    "IsGreen": true,
+                    "IsYellow": false,
+                    "IsGray": false,
+                    "index": 2
+                }
+            ],
+            "letter_3":[
+                {
+                    "letter": "O",
+                    "IsGreen": true,
+                    "IsYellow": false,
+                    "IsGray": false,
+                    "index": 3
+                }
+            ],
+            "letter_4":[
+                {
+                    "letter": "O",
+                    "IsGreen": false,
+                    "IsYellow": false,
+                    "IsGray": true,
+                    "index": 4
+                }
+            ],
+            "letter_5":[
+                {
+                    "letter": "L",
+                    "IsGreen": false,
+                    "IsYellow": false,
+                    "IsGray": true,
+                    "index": 5
+                }
+            ]
+        }
+    ]
+}

@@ -14,34 +14,34 @@
             ],
             "letter_2":[
                 {
-                    "letter": "H",
-                    "IsGreen": true,
-                    "IsYellow": false,
+                    "letter": "A",
+                    "IsGreen": false,
+                    "IsYellow": true,
                     "IsGray": false,
                     "index": 2
                 }
             ],
             "letter_3":[
                 {
-                    "letter": "O",
-                    "IsGreen": true,
+                    "letter": "L",
+                    "IsGreen": false,
                     "IsYellow": false,
-                    "IsGray": false,
+                    "IsGray": true,
                     "index": 3
                 }
             ],
             "letter_4":[
                 {
-                    "letter": "O",
+                    "letter": "E",
                     "IsGreen": false,
-                    "IsYellow": false,
-                    "IsGray": true,
+                    "IsYellow": true,
+                    "IsGray": false,
                     "index": 4
                 }
             ],
             "letter_5":[
                 {
-                    "letter": "L",
+                    "letter": "T",
                     "IsGreen": false,
                     "IsYellow": false,
                     "IsGray": true,

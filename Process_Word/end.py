@@ -2,7 +2,7 @@ from ast import Lambda, literal_eval
 import json
 from tkinter import E
 from tokenize import String
-from xml.etree.ElementTree import TreeBuilder
+import ast
 
 
 json_file = "letter_po.json"
@@ -178,6 +178,8 @@ with open(json_file) as alphabets:
             else:
                 LambdaFilter = LambdaFilter + f" and x[4] == '{letter_3['word'].lower()}'"
         if isLetterThreeYellowInWordOne is True:
+            print("present")
+
             if not LambdaFilter:
                 LambdaFilter = LambdaFilter + f" '{letter_3['word'].lower()}' in x"
             else:
@@ -204,8 +206,7 @@ with open(json_file) as alphabets:
                 LambdaFilter = LambdaFilter + f" '{letter_5['word'].lower()}' in x"
             else:
                 LambdaFilter = LambdaFilter + f" and '{letter_5['word'].lower()}' in x"
-        words = list(filter(lambda x: LambdaFilter, word_dict))
-        print(words)
+        print(f'filter: {LambdaFilter}')
             #print(letter_1["word"])
             #words = list(filter(lambda x: x[2] == letter_1["word"].lower(), word_dict))
             #print(words)
